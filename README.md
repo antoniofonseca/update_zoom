@@ -1,6 +1,6 @@
 # update_zoom
 
-Check and install Zoom update on Debian/Ubuntu
+Check and install Zoom updates on Debian/Ubuntu
 
 ## How to use
 1. Give the script execution permission
